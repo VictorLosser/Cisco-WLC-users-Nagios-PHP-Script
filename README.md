@@ -13,10 +13,14 @@ check_cisco_wlc <hostname> <community> <warn value> <critical value> <'checkall'
 
 ## Supported commands 
 ```
-checkall:	Check all APS without any filter. Display only the most 'critical' state in text. Graphs of all APs.
-single:	Check AP you want depending on what you precise in 6th argument.
-search:	Type the name of the AP, not necessary completely. It's just to search an AP.
-total:	Brief about all APs.
+	checkall:
+		Check all APS without any filter. Display only the most 'critical' state in text. Graphs of all APs.
+	single:
+		Check AP you want depending on what you precise in 6th argument.
+	search:
+		Type the name of the AP, not necessary completely. It's just to search an AP.
+	total:
+		Brief about all APs.
 				   
 ```
 
