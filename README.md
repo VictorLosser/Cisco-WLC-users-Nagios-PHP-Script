@@ -1,6 +1,7 @@
 # Nagios check_cisco_wlc_users.php
 
 This plugin check your Access Points via you Cisco Wireless LAN Controller.
+Also on Nagios Exchange : https://exchange.nagios.org/directory/Plugins/Hardware/Network-Gear/Cisco/Cisco-WLC-users-Script-%28PHP%29/details
 
 ## Usage
 ```
